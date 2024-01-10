@@ -4,13 +4,17 @@ In this project, we will see the affect of changing the size of the image we wan
 We then try to decrypt the resulted image and try to retrieve the hidden image.
 
 i) Image is smaller than Carnival.png
+
 ![image](https://github.com/AmalSaqib/Steganography-Image-Hiding/assets/80645080/db1a32cb-065e-4dd3-a9fe-c1241a9aa494)
 
 ii) Image is the same size as Carnival.png
+
 ![image](https://github.com/AmalSaqib/Steganography-Image-Hiding/assets/80645080/67743ad0-56c3-4d49-a1f6-032ea6c41236)
 
 iii) Image is larger than Carnival.png
+
 ![image](https://github.com/AmalSaqib/Steganography-Image-Hiding/assets/80645080/b001582c-287c-4697-908c-00dac10f31ff)
+
 ![image](https://github.com/AmalSaqib/Steganography-Image-Hiding/assets/80645080/0c1507d2-cb37-4e37-8a86-c4382388062e)
 
 
